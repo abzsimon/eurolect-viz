@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Graphique Empilé Dynamique</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+    <h2>Graphique Empilé Dynamique (Tri & Normalisation)</h2>
+    
+    <label for="sort-key">Trier par :</label>
+    <select id="sort-key">
+        <option value="PRC">PRC</option>
+        <option value="total">Total Contribution</option>
+    </select>
+    
+    <button onclick="updateChart()">Appliquer</button>
+    <button onclick="toggleNormalization()">Toggle Normalisation</button>
+
+    <div id="tester" style="width: 100%; height: 600px;"></div>
+
+    <script src="script.js"></script> <!-- Charger le script JS -->
+</body>
+</html>

@@ -1,0 +1,287 @@
+[
+  {
+    "projectID": 824711,
+    "activityStats": {
+      "OTH": 284293.75,
+      "REC": 1275634.25,
+      "PRC": 172625,
+      "PUB": 211875
+    }
+  },
+  {
+    "projectID": 741856,
+    "activityStats": {
+      "HES": 571606.56,
+      "PRC": 767683.11,
+      "REC": 1737907.8299999998
+    }
+  },
+  {
+    "projectID": 710659,
+    "activityStats": {
+      "HES": 1652000,
+      "PRC": 1573250,
+      "REC": 316250,
+      "OTH": 138750,
+      "PUB": 208750
+    }
+  },
+  {
+    "projectID": 101006386,
+    "activityStats": {
+      "HES": 631651.09,
+      "OTH": 564757.6799999999,
+      "PRC": 452500,
+      "REC": 546927.48
+    }
+  },
+  {
+    "projectID": 101006396,
+    "activityStats": {
+      "HES": 856418.13,
+      "PRC": 352582.5,
+      "OTH": 432003.75
+    }
+  },
+  {
+    "projectID": 786641,
+    "activityStats": {
+      "OTH": 677513.75,
+      "HES": 1124463.75,
+      "REC": 208563.75,
+      "PRC": 855406.25
+    }
+  },
+  {
+    "projectID": 101006285,
+    "activityStats": {
+      "REC": 539000,
+      "PRC": 153125,
+      "HES": 230625,
+      "OTH": 271750
+    }
+  },
+  {
+    "projectID": 664771,
+    "activityStats": {
+      "OTH": 124705,
+      "REC": 614161,
+      "": 480201.25,
+      "HES": 922106
+    }
+  },
+  {
+    "projectID": 741716,
+    "activityStats": {
+      "HES": 3053537.4999999995,
+      "PRC": 585937.5,
+      "OTH": 357312.5
+    }
+  },
+  {
+    "projectID": 872500,
+    "activityStats": {
+      "OTH": 733375,
+      "HES": 646397.5
+    }
+  },
+  {
+    "projectID": 872743,
+    "activityStats": {
+      "PRC": 820625,
+      "HES": 738357.5,
+      "OTH": 398915
+    }
+  },
+  {
+    "projectID": 101006295,
+    "activityStats": {
+      "HES": 367000,
+      "OTH": 368768.75,
+      "REC": 542625,
+      "PUB": 364375,
+      "PRC": 357062.5
+    }
+  },
+  {
+    "projectID": 101006349,
+    "activityStats": {
+      "HES": 1395725,
+      "OTH": 396250,
+      "REC": 105625
+    }
+  },
+  {
+    "projectID": 101006430,
+    "activityStats": {
+      "HES": 1306070.62,
+      "PUB": 207545,
+      "OTH": 619500,
+      "REC": 365470.63
+    }
+  },
+  {
+    "projectID": 824574,
+    "activityStats": {
+      "REC": 931375,
+      "PRC": 566611.25,
+      "OTH": 193025,
+      "HES": 308513.75
+    }
+  },
+  {
+    "projectID": 872944,
+    "activityStats": {
+      "HES": 1117937.5,
+      "REC": 881498.75
+    }
+  },
+  {
+    "projectID": 824612,
+    "activityStats": {
+      "HES": 707540.9400000001,
+      "REC": 292459.06
+    }
+  },
+  {
+    "projectID": 872441,
+    "activityStats": {
+      "PUB": 730223.19,
+      "REC": 1166755.56,
+      "PRC": 265505,
+      "HES": 343250,
+      "OTH": 482200
+    }
+  },
+  {
+    "projectID": 101006249,
+    "activityStats": {
+      "PUB": 0,
+      "REC": 1067766.25,
+      "PRC": 663250,
+      "HES": 882638.75,
+      "OTH": 1380937.5
+    }
+  },
+  {
+    "projectID": 710470,
+    "activityStats": {
+      "REC": 1206165,
+      "HES": 584880,
+      "PRC": 207940
+    }
+  },
+  {
+    "projectID": 101006220,
+    "activityStats": {
+      "PRC": 616506.04,
+      "REC": 1273445.21,
+      "OTH": 325687.5
+    }
+  },
+  {
+    "projectID": 741128,
+    "activityStats": {
+      "HES": 1177797,
+      "": 145182,
+      "REC": 362138,
+      "PUB": 154750,
+      "PRC": 185625
+    }
+  },
+  {
+    "projectID": 665926,
+    "activityStats": {
+      "HES": 1987779.75
+    }
+  },
+  {
+    "projectID": 824580,
+    "activityStats": {
+      "OTH": 233217.5,
+      "HES": 368375,
+      "REC": 1082661.25,
+      "PUB": 315625
+    }
+  },
+  {
+    "projectID": 101006436,
+    "activityStats": {
+      "HES": 445812.5,
+      "PRC": 372187.5,
+      "OTH": 231625,
+      "REC": 150312.5
+    }
+  },
+  {
+    "projectID": 101006012,
+    "activityStats": {
+      "HES": 2601182.5,
+      "REC": 394602.5
+    }
+  },
+  {
+    "projectID": 101017201,
+    "activityStats": {
+      "HES": 1951951.3699999999
+    }
+  },
+  {
+    "projectID": 824484,
+    "activityStats": {
+      "PRC": 645000,
+      "REC": 704250,
+      "HES": 651250
+    }
+  },
+  {
+    "projectID": 665826,
+    "activityStats": {
+      "OTH": 607000,
+      "REC": 280000,
+      "PRC": 158000,
+      "HES": 952252.5
+    }
+  },
+  {
+    "projectID": 101006261,
+    "activityStats": {
+      "REC": 921000,
+      "OTH": 548921.25,
+      "HES": 1294618.75,
+      "PRC": 434000
+    }
+  },
+  {
+    "projectID": 872113,
+    "activityStats": {
+      "REC": 139737.5,
+      "OTH": 324783.75,
+      "HES": 326071.25,
+      "PRC": 708687.5
+    }
+  },
+  {
+    "projectID": 101006482,
+    "activityStats": {
+      "REC": 155587.5,
+      "OTH": 445425,
+      "HES": 551480,
+      "PRC": 446256.25
+    }
+  },
+  {
+    "projectID": 710059,
+    "activityStats": {
+      "OTH": 235750,
+      "REC": 187053.75,
+      "HES": 1285291.25
+    }
+  },
+  {
+    "projectID": 710246,
+    "activityStats": {
+      "HES": 999712.5
+    }
+  }
+]
