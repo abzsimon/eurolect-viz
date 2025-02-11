@@ -61,9 +61,9 @@ function updateChart() {
 
         // 🎨 Configuration du graphique
         let layout = {
-          title: `Graphique ${isNormalized ? "Normalisé" : "Absolu"} - Trié par ${sortKey}`,
+          title: `Graphique ${isNormalized ? "en montants relatifs" : "en montants absolus"} | Clé de tri : ${sortKey}`,
           xaxis: { title: "ID du Projet", type: "category" },
-          yaxis: { title: isNormalized ? "Contribution (%)" : "Contribution (€)", range: isNormalized ? [0, 100] : undefined, tickformat: isNormalized ? ".0%" : ",.0f" },
+          yaxis: { title: isNormalized ? "Contribution (%)" : "Contribution (€)", range: isNormalized ? [0, 100] : undefined, tickformat: isNormalized ? "" : ",.0f" },
           barmode: "stack" // Mode empilé
         };
 

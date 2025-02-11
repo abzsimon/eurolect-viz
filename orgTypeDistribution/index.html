@@ -3,12 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Graphique Empilé Dynamique</title>
+    <title>Distribution des types d'organisation par projet</title>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 </head>
 <body>
-    <h2>Graphique Empilé Dynamique (Tri & Normalisation)</h2>
-    
+    <div style="text-align: center; margin-top: 20px">
+        <h2>Distribution des types d'organisation par projet</h2>
+        <h3>
+            <em style="color: darksalmon; font-weight: bold;">HES</em>: higher education &nbsp;
+            <em style="color: darksalmon; font-weight: bold;">OTH</em>: other &nbsp;
+            <em style="color: darksalmon; font-weight: bold;">PRC</em>: private for-profit companies &nbsp;
+            <em style="color: darksalmon; font-weight: bold;">PUB</em>: public bodies &nbsp;
+            <em style="color: darksalmon; font-weight: bold;">REC</em>: research organisations
+        </h3>
+    </div>
+          
     <label for="sort-key">Trier par :</label>
     <select id="sort-key">
         <option value="PRC">PRC</option>
@@ -16,7 +25,7 @@
     </select>
     
     <button onclick="updateChart()">Appliquer</button>
-    <button onclick="toggleNormalization()">Toggle Normalisation</button>
+    <button onclick="toggleNormalization()">Normaliser</button>
 
     <div id="tester" style="width: 100%; height: 600px;"></div>
 
